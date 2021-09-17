@@ -1,17 +1,17 @@
-### Hello, stranger! 👽
+### Hi there, stranger! 👽
 
 My name is Sasha... and that's all I've got, really.
 
-Some uninteresting things about me:
+Some boring things about me:
 
-- 🇷🇺 Sasha from Russia (*help*). My timezone is [UTC+7/KRAT](https://time.is/KRAT), but I'm mostly active during the nights!
-- 🇺🇸 You know, I'm something of a [translator to Russian](https://crowdin.com/profile/brawaru) myself.
-- 🧊 Love Minecraft and sometimes experimenting with plugins and mods. Some good ones [are open-sourced](https://github.com/Brawaru?tab=repositories&language=java).
-- 🤹 Pronouns are [he/him](https://pronoun.is/he) or [they/them](https://pronoun.is/they/.../themselves).
-- 🐘 I have [Mastodon](https://mastodon.social/@sasha_sorokin) and [Twitter](https://twitter.com/@brawaru) accounts.
-- 🙃 Dealing with social anxiety, if I look a little bit awkward — well… I am, pardon me! :)
-- 🍵 In case I helped you or your project, ~~consider [donation](https://donate.stream/en/brawaru).~~
+- 📛 Even though my full name is Alexander, I'd much prefer if you call me Sasha.
+- ☕ My timezone is [CEST](https://time.is/CEST), this is accurate thanks to my sleep schedule.
+- 🌐 You know, I'm something of a [translator to Russian](https://crowdin.com/profile/brawaru) myself. I'm currently learning German :)
+- 🧊 Love Minecraft and experimenting with plugins and mods. The stuff I find good [is open-source](https://github.com/Brawaru?tab=repositories&language=java).
+- 🧠 I know technical terms too!! See. Uhhh.. JS/TS, Node.js, Java, Rust, what [is in fact, GNU/Linux](https://devrant.com/rants/1051771/).
+- 👨🏻‍💻 Pronouns are [he/him](https://pronoun.is/he) or [they/them](https://pronoun.is/they/.../themselves). Whichever you prefer.
+- 🐘 I shitpost a lot on [Mastodon](https://mastodon.social/@sasha_sorokin) and [Twitter](https://twitter.com/@brawaru). Why would you follow me?
+- 🍵 Could beg for donations here, but [services said ‘no’](https://stripe.com/global), bruh.
+- ⏱ I track my code activity [with WakaTime](https://wakatime.com/@Brawaru).
 
-  Sorry, due to Russian laws I'm unable to accept any donations from foreing countries! 😞
-
-Nice to meet ya.
+Anyway, nice to meet ya.
