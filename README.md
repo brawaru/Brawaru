@@ -13,5 +13,6 @@ Some boring things about me:
 - 🐘 I shitpost a lot on [Mastodon](https://mastodon.social/@sasha_sorokin) and [Twitter](https://twitter.com/@brawaru). Why would you follow me?
 - 🍵 Could beg for donations here, but [services said ‘no’](https://stripe.com/global), bruh.
 - ⏱ I track my code activity [with WakaTime](https://wakatime.com/@Brawaru).
+- 🖼 This lovely profile picture of mine is created using [icon maker](https://picrew.me/image_maker/148413) by [@buffalobellie](https://twitter.com/buffalobellie)!
 
 Anyway, nice to meet ya.
