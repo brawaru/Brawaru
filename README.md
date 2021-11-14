@@ -5,7 +5,7 @@ My name is Sasha... and that's all I've got, really.
 Some boring things about me:
 
 - 📛 Even though my full name is Alexander, I'd much prefer if you call me Sasha.
-- ☕ My timezone is [CEST](https://time.is/CEST), this is accurate thanks to my sleep schedule.
+- ☕ My timezone is [CET](https://time.is/CET), this is accurate thanks to my sleep schedule.
 - 🌐 You know, I'm something of a [translator to Russian](https://crowdin.com/profile/brawaru) myself. I'm currently learning German :)
 - 🧊 Love Minecraft and experimenting with plugins and mods. The stuff I find good [is open-source](https://github.com/Brawaru?tab=repositories&language=java).
 - 🧠 I know technical terms too!! See. Uhhh.. JS/TS, Node.js, Java, Rust, what [is in fact, GNU/Linux](https://devrant.com/rants/1051771/).
