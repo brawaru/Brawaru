@@ -1,7 +1,7 @@
 # Support Brawaru
 
-If I helped you our your project, or you just appreciate my work, please
-consider supporting me financially (if you can, of course), it really would
+If I helped you or your project, or you just appreciate my work, please
+consider supporting me financially (if you can, of course), it would really
 help these days. Depending on your location, you can do it through
 [Boosty][boosty] (worldwide) or [Yoomoney][yoomoney] (in Russia).
 
