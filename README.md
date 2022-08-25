@@ -4,7 +4,7 @@ My name is Sasha... and that's all I've got, really.
 
 Some things about me:
 
-- <img src="https://github.com/twitter/twemoji/raw/master/assets/svg/1f4db.svg" alt="📛" width="18" height="18" align="center"> Even though my full name is Alexander, but you can call me just Sasha.
+- <img src="https://github.com/twitter/twemoji/raw/master/assets/svg/1f4db.svg" alt="📛" width="18" height="18" align="center"> My full name is Alexander, but you can call me just Sasha.
 - <img src="https://github.com/twitter/twemoji/raw/master/assets/svg/2615.svg" alt="☕" width="18" height="18" align="center"> My timezone is [CEST][tz], but I'm often available at other times as well.
 - <img src="https://github.com/twitter/twemoji/raw/master/assets/svg/1f310.svg" alt="🌐" width="18" height="18" align="center"> You know, I'm something of a [translator to russian][crowdin] myself.
 - <img src="https://user-images.githubusercontent.com/10401817/161104405-9d891d48-2e8f-40c1-bc68-45a019091fe5.png" alt="Minecraft Grass block" width="18" height="18" align="center"> Love Minecraft and experimenting with plugins and mods. The stuff I find good [is open-source][oss].
