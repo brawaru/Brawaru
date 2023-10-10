@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Bluesky stole my invites button!</title>
+  <style>
+    body {
+      font-family: Verdana, sans-serif;
+      font-size: 1rem;
+    }
+
+    h1,
+    h2,
+    h3 {
+      font-family: Georgia, serif;
+    }
+
+    h1 {
+      font-size: 3rem;
+    }
+
+    h2 {
+      font-size: 2rem;
+    }
+
+    p,
+    li {
+      line-height: 1.65rem;
+    }
+
+    li {
+      margin-bottom: 0.25rem;
+    }
+
+    footer {
+      color: #333;
+    }
+
+    @media screen and (prefers-color-scheme: dark) {
+      body {
+        color: white;
+        background-color: #111;
+      }
+
+      footer {
+        color: #ddd;
+      }
+
+      a {
+        color: cyan;
+      }
+
+      a:visited {
+        color: magenta;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Bluesky stole my invites button!</h1>
+  <p><i>How dare they!</i></p>
+  <h2>Problem</h2>
+  <p>Unfortunately, in the last update Bluesky broke the invite buttons. I don't think this was intended, rather they've used incorrect variable in refactored code, which caused invite buttons to think the invites are never loaded, and thus never show up, rather than lying to you that you have 0 invites. Good intentions, broken implementation.</p>
+  <h2>Solution</h2>
+  <p>The dialog is still there and is functional. Invites load just fine — they're not removed! So the solution is to force dialog to show up.</p>
+  <p>For that I go through React (the framework Bluesky uses) elements on the page in order to find context provider for the global state of the app. From there I just call a function to show Invites dialog.</p>
+  <p>Now that this explained, here's how you can use this:</p>
+    <ol>
+      <li>Right click / drag this link and add it to your bookmarks bar: <a data-anc-link="">Bluesky - Show Invites Dialog</a>.</li>
+      <li>Go to Bluesky, open bookmarks bar and click on the link.</li>
+      <li>Ta-da! A dialog showing your invites should show up.</li>
+    </ol>
+  <hr>
+  <footer>
+    <p>Created by <a href="https://bsky.app/profile/brawaru.bsky.social">brawaru.bsky.social</a></p>
+    <p>Check the source of this page to see the source for this bookmarklet!</p>
+  </footer>
+  <script>
+    const source = `(() => {
+      const findChild = (comp, predicate) => {
+        let current = { child: comp };
+        while ((current = current.child) != null) {
+          if (predicate(current)) return current;
+        }
+      };
+      const rootElement = document.querySelector('#root');
+      const reactContainer = Object.entries(rootElement).find(([key]) =>
+        key.startsWith('__reactContainer')
+      )[1];
+      const contextProvider = findChild(
+        reactContainer,
+        ({ memoizedProps: memoizedProps }) => memoizedProps?.value?.shell != null
+      );
+      const { value: context } = contextProvider.memoizedProps;
+      context.shell.openModal({ name: 'invite-codes' });
+    })();`;
+
+    const link = document.querySelector("[data-anc-link]");
+
+    const wrappedSource = `(function () { ${source.trim()} })();`;
+
+    link.href = `javascript:${encodeURIComponent(wrappedSource)}`;
+  </script>
+</body>
+</html>
