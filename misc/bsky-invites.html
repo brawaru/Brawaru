@@ -64,20 +64,20 @@
   <h1>Bluesky stole my invites button!</h1>
   <p><i>How dare they!</i></p>
   <h2>Problem</h2>
-  <p>Unfortunately, in the last update Bluesky broke the invite buttons. I don't think this was intended, rather they've used incorrect variable in refactored code, which caused invite buttons to think the invites are never loaded, and thus never show up, rather than lying to you that you have 0 invites. Good intentions, broken implementation.</p>
-  <h2>Solution</h2>
-  <p>The dialog is still there and is functional. Invites load just fine — they're not removed! So the solution is to force dialog to show up.</p>
-  <p>For that I go through React (the framework Bluesky uses) elements on the page in order to find context provider for the global state of the app. From there I just call a function to show Invites dialog.</p>
+  <p>Unfortunately, in the last update Bluesky broke the invite buttons. I don't think this was intended. Rather, they've used incorrect variable in refactored code, which caused invite buttons to think that the invites are never loaded. Because of that they would never show up to avoid lying to you that you have 0 invites. The intentions are good, just the implementation is broken.</p>
+  <h2>Workaround</h2>
+  <p>The dialog is still there and is functional. Invites load just fine — they are not removed! So, as a workaround for now, you can force dialog to show up with a special script.</p>
+  <p>That script would go through React (the framework Bluesky uses) elements on the page to find context provider for the global state of the app. Using the state, it will call a function to show the invites dialog.</p>
   <p>Now that this explained, here's how you can use this:</p>
     <ol>
-      <li>Right click / drag this link and add it to your bookmarks bar: <a data-anc-link="">Bluesky - Show Invites Dialog</a>.</li>
-      <li>Go to Bluesky, open bookmarks bar and click on the link.</li>
-      <li>Ta-da! A dialog showing your invites should show up.</li>
+      <li>Right click or drag this link to add it to your bookmarks bar: <a data-anc-link="">Bluesky - Show Invites Dialog</a>.</li>
+      <li>Go to Bluesky, open the bookmarks bar, and click on the link.</li>
+      <li>Ta-da! The dialog with your invites should show up.</li>
     </ol>
   <hr>
   <footer>
-    <p>Created by <a href="https://bsky.app/profile/brawaru.bsky.social">brawaru.bsky.social</a></p>
-    <p>Check the source of this page to see the source for this bookmarklet!</p>
+    <p>Created by <a href="https://bsky.app/profile/brawaru.bsky.social">brawaru.bsky.social</a>.</p>
+    <p>Check out <a href="https://github.com/brawaru/Brawaru/blob/main/misc/bsky-invites.html">the source</a> of this page to see the source of this bookmarklet!</p>
   </footer>
   <script>
     const source = `(() => {
