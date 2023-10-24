@@ -39,9 +39,6 @@ single donations through [Boosty][boosty] worldwide. You can also donate using
 [![Subscribe on Boosty][boosty_badge]][boosty]
 [![Donate with YooMoney][yoomoney_badge]][yoomoney]
 
-[boosty_badge]: ./assets/badge-boosty.svg
-[yoomoney_badge]: ./assets/badge-yoomoney.svg
-
 > **Note**
 >
 > With Boosty, you can subscribe monthly or make a one-off donation. You need an
@@ -62,17 +59,12 @@ I don't like cryptocurrencies, but it's one of the ways to send me money. Please
 
 ## Legal stuff
 
-Payments made through either of the platforms are considered donations and
-therefore do not provide any benefits or bonuses. Donations do not have any
-influence on my moderation actions, and cannot be used in order to avoid or
-appeal moderation actions in any of the communities I moderate. Donations do not
-give priority to support tickets, issues, feature requests, or pull/merge/review
-requests created by a donator, however they do allow me to spend more time
-working through all of these, and resolving ones by a donor in the process. By
-making a donation through either of the platforms you confirm that you do so
-voluntarily as a gift, and not as a direct payment for the work that I did or do
-for you.
+Payments made through either of the platforms are considered donations and, as such, do not provide any benefits or bonuses. Donations do not influence my moderation actions and cannot be used to evade or appeal moderation actions in any of the communities I moderate. Donations also do not grant priority to support tickets, issues, feature requests, or pull/merge/review requests created by a donor. However, they do allow me to allocate more time to address these requests and resolve those from donors in the process.
 
+By making a donation through either of the platforms, you confirm that you are doing so voluntarily as a gift and not as a direct payment for the work I have done or may do for you.
+
+[boosty_badge]: ./assets/badge-boosty.svg
+[yoomoney_badge]: ./assets/badge-yoomoney.svg
 [boosty]: https://boosty.to/brawaru
 [yoomoney]: https://yoomoney.ru/to/410014746904198
 [conv]: https://www.google.com/search?q=usd%20to%20rub
