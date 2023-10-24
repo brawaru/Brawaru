@@ -37,7 +37,10 @@ single donations through [Boosty][boosty] worldwide. You can also donate using
 [Yoomoney][yoomoney] in Russia.
 
 [![Subscribe on Boosty][boosty_badge]][boosty]
-[![Donate with Yoomoney][yoomoney_badge]][yoomoney]
+[![Donate with YooMoney][yoomoney_badge]][yoomoney]
+
+[boosty_badge]: ./assets/badge-boosty.svg
+[yoomoney_badge]: ./assets/badge-yoomoney.svg
 
 > **Note**
 >
@@ -74,7 +77,3 @@ for you.
 [yoomoney]: https://yoomoney.ru/to/410014746904198
 [conv]: https://www.google.com/search?q=usd%20to%20rub
 [crypto]: https://forms.gle/rFmLBGCrahspENZVA
-[boosty_badge]:
-  https://github.com/brawaru/Brawaru/assets/10401817/f07c6726-8777-4618-97e1-744214fd7a71
-[yoomoney_badge]:
-  https://github.com/brawaru/Brawaru/assets/10401817/74eba74c-e8cf-4f23-ad39-24f6504fb3c8
