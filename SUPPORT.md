@@ -21,8 +21,8 @@ Here are some of the highlights:
 All my contributions are made free of charge, and done in spare time. I don't
 have a job, and don't see having one right now due to _reasons_.
 
-Sadly, times are getting really hard and these days I cannot even afford the
-essentials like food, clothing, or rent. So I sincerely ask you, if I have
+Sadly, times are getting really difficult and these days I cannot even afford
+the essentials like food, clothing, or rent. So I sincerely ask you, if I have
 helped you or your project, or you just like my work, please consider supporting
 me by making a donation, it would really mean a lot these days. Don't do that if
 you are in difficult situation yourself.
