@@ -18,16 +18,14 @@ Here are some of the highlights:
 [contrib_modrinth]:
   https://github.com/brawaru?org=modrinth#js-contribution-activity
 
-Unfortunately, I didn't succeeded at life as a person and those contributions
-are the least I can do to feel like a contributing member of society. However,
-everything I do, I do it for free. I don't have a real job and don't see having
-one right now due to _reasons_.
+All my contributions are made free of charge, and done in spare time. I don't
+have a job, and don't see having one right now due to _reasons_.
 
-Sadly, times are getting really hard and now I cannot even afford the essentials
-like food, clothing, or rent. So I sincerely ask you, if I have helped you
-or your project, or you just like my work, please consider supporting me
-financially, it would really mean a lot these days. Don't do that if you are in
-difficult situation yourself.
+Sadly, times are getting really hard and these days I cannot even afford the
+essentials like food, clothing, or rent. So I sincerely ask you, if I have
+helped you or your project, or you just like my work, please consider supporting
+me by making a donation, it would really mean a lot these days. Don't do that if
+you are in difficult situation yourself.
 
 ## Donation methods
 
@@ -59,9 +57,17 @@ I don't like cryptocurrencies, but it's one of the ways to send me money. Please
 
 ## Legal stuff
 
-Payments made through either of the platforms are considered donations and, as such, do not provide any benefits or bonuses. Donations do not influence my moderation actions and cannot be used to evade or appeal moderation actions in any of the communities I moderate. Donations also do not grant priority to support tickets, issues, feature requests, or pull/merge/review requests created by a donor. However, they do allow me to allocate more time to address these requests and resolve those from donors in the process.
+Payments made through either of the platforms are considered donations and, as
+such, do not provide any benefits or bonuses. Donations do not influence my
+moderation actions and cannot be used to evade or appeal moderation actions in
+any of the communities I moderate. Donations also do not grant priority to
+support tickets, issues, feature requests, or pull/merge/review requests created
+by a donor. However, they do allow me to allocate more time to address these
+requests and resolve those from donors in the process.
 
-By making a donation through either of the platforms, you confirm that you are doing so voluntarily as a gift and not as a direct payment for the work I have done or may do for you.
+By making a donation through either of the platforms, you confirm that you are
+doing so voluntarily as a gift and not as a direct payment for the work I have
+done or may do for you.
 
 [boosty_badge]: ./assets/badge-boosty.svg
 [yoomoney_badge]: ./assets/badge-yoomoney.svg
