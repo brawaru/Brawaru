@@ -8,9 +8,9 @@ projects that I like and offered my help to the people I care about.
 
 Here are some of the highlights:
 
-- [Translations and other contributions to Mastodon][contrib_mastodon]
 - [Moderation and contributions to Modrinth][contrib_modrinth]
 - [VIntl library for Vue and Nuxt][contrib_vintl]
+- [Translations and other contributions to Mastodon][contrib_mastodon] (in the past)
 
 [contrib_vintl]: https://github.com/vintl-dev
 [contrib_mastodon]:
@@ -55,7 +55,7 @@ single donations through [Boosty][boosty] worldwide. You can also donate using
 I don't like cryptocurrencies, but it's one of the ways to send me money. Please
 [use my form][crypto] to request my actual wallet addresses.
 
-## Legal stuff
+## Legal yapping
 
 Payments made through either of the platforms are considered donations and, as
 such, do not provide any benefits or bonuses. Donations do not influence my
