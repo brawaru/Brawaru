@@ -37,14 +37,14 @@ single donations through [Boosty][boosty] worldwide. You can also donate using
 [![Subscribe on Boosty][boosty_badge]][boosty]
 [![Donate with YooMoney][yoomoney_badge]][yoomoney]
 
-> **Note**
+> [!NOTE]
 >
 > With Boosty, you can subscribe monthly or make a one-off donation. You need an
 > account, but you can also sign up using third party services like Google or
 > Twitch. Boosty's billing is done through its parent company, ‘CEBC B.V’, and
 > will be listed like that in your card transactions, don't get confused!
 
-> **Warning**
+> [!WARNING]
 >
 > If you are in Russia, please use Yoomoney instead, as Boosty's fees are
 > draconian (~10%, not including withdrawal and exchange fees). Yoomoney only
