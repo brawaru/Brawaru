@@ -52,8 +52,9 @@ single donations through [Boosty][boosty] worldwide. You can also donate using
 
 ## Cryptocurrencies
 
-I don't like cryptocurrencies, but it's one of the ways to send me money. Please
-[use my form][crypto] to request my actual wallet addresses.
+~~I don't like cryptocurrencies, but it's one of the ways to send me money. Please
+[use my form][crypto] to request my actual wallet addresses.~~ Not available right
+now.
 
 ## Legal yapping
 
