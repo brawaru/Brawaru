@@ -8,7 +8,7 @@ projects that I like and offered my help to the people I care about.
 
 Here are some of the highlights:
 
-- [Moderation and contributions to Modrinth][contrib_modrinth]
+- [Support, moderation and code contributions to Modrinth][contrib_modrinth]
 - [VIntl library for Vue and Nuxt][contrib_vintl]
 - [Translations and other contributions to Mastodon][contrib_mastodon] (in the past)
 
@@ -25,12 +25,12 @@ Sadly, times are getting really difficult and these days I cannot even afford
 the essentials like food, clothing, or rent. So I sincerely ask you, if I have
 helped you or your project, or you just like my work, please consider supporting
 me by making a donation, it would really mean a lot these days. Don't do that if
-you are in difficult situation yourself.
+you are in a difficult situation yourself.
 
 ## Donation methods
 
 Due to _circumstances_ I cannot have GitHub Sponsors and have to rely on
-less-popular platforms. Depending on your location, you can make monthly or
+lesser-known platforms. Depending on your location, you can make monthly or
 single donations through [Boosty][boosty] worldwide. You can also donate using
 [Yoomoney][yoomoney] in Russia.
 
