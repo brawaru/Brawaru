@@ -58,17 +58,21 @@ now.
 
 ## Legal yapping
 
-Payments made through either of the platforms are considered donations and, as
-such, do not provide any benefits or bonuses. Donations do not influence my
-moderation actions and cannot be used to evade or appeal moderation actions in
-any of the communities I moderate. Donations also do not grant priority to
-support tickets, issues, feature requests, or pull/merge/review requests created
-by a donor. However, they do allow me to allocate more time to address these
-requests and resolve those from donors in the process.
+Payments made through either of these platforms are considered donations and, as
+such, do not provide any benefits or bonuses. This means, for example, that
+donations:
+
+- do not influence my moderation actions and cannot be used to evade or appeal
+  moderation actions in any of the communities I moderate;
+- do not grant priority to support tickets, issues, feature requests, or
+  pull/merge/review requests created by a donor.
+
+However, they do allow me to allocate more time to address these requests and
+resolve those from donors in the process.
 
 By making a donation through either of the platforms, you confirm that you are
-doing so voluntarily as a gift and not as a direct payment for the work I have
-done or may do for you.
+doing so voluntarily as a gift and not as a direct payment for work I have
+exclusively done or may do for you.
 
 [boosty_badge]: ./assets/badge-boosty.svg
 [yoomoney_badge]: ./assets/badge-yoomoney.svg
